@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1071265336540",
+    "firebase_url": "https://cloudcompras-1f8d1.firebaseio.com",
+    "project_id": "cloudcompras-1f8d1",
+    "storage_bucket": "cloudcompras-1f8d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071265336540:android:ec5beb6308a09e30dd7819",
+        "android_client_info": {
+          "package_name": "com.example.carrito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071265336540-doikn6s3llo72hhdv62gl57vd3ucj2f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carrito",
+            "certificate_hash": "44e863740ed6eb5cc35481651bfa815345f9baad"
+          }
+        },
+        {
+          "client_id": "1071265336540-q5o727r8jum4sqjuet37ac81763765l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVYvE78c1yzRPKOa6QTXedRp8rMipxt7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071265336540-q5o727r8jum4sqjuet37ac81763765l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
