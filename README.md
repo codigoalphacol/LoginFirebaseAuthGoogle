@@ -1,6 +1,6 @@
 # carrito
-
-A new Flutter project.
+![alt text](https://github.com/codigoalphacol/LoginFirebaseAuthGoogle/blob/main/loginfirebase.png) 
+Login + Firebase + Auth +  Google + GetX
 
 ## Getting Started
 
